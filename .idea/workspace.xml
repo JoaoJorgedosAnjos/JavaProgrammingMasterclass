@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingMasterclass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section04/helloWorld/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="refatorando nome do projeto">
+      <change afterPath="$PROJECT_DIR$/src/section04/helloWorld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section04/ifThenStatement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section04/helloWorld/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +59,24 @@
       <workItem from="1692379876932" duration="128000" />
       <workItem from="1692380023994" duration="21000" />
       <workItem from="1692380066809" duration="1000" />
+      <workItem from="1692380079486" duration="1062000" />
     </task>
+    <task id="LOCAL-00001" summary="refatorando nome do projeto">
+      <option name="closed" value="true" />
+      <created>1692380142476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692380142476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refatorando nome do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="refatorando nome do projeto" />
   </component>
 </project>
