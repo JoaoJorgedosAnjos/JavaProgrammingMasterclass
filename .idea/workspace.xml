@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="refatorando nome do projeto">
-      <change afterPath="$PROJECT_DIR$/src/section04/helloWorld/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section04/ifThenStatement/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="34 - if then statement">
+      <change afterPath="$PROJECT_DIR$/src/section04/ifThenStatement/Challenge1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section04/helloWorld/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section04/ifThenStatement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section04/ifThenStatement/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,9 @@
       <workItem from="1692379876932" duration="128000" />
       <workItem from="1692380023994" duration="21000" />
       <workItem from="1692380066809" duration="1000" />
-      <workItem from="1692380079486" duration="1062000" />
+      <workItem from="1692380079486" duration="1348000" />
+      <workItem from="1692458311017" duration="2090000" />
+      <workItem from="1692474382479" duration="966000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -69,7 +70,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692380142476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="35 - hello world">
+      <option name="closed" value="true" />
+      <created>1692386241661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692386241661</updated>
+    </task>
+    <task id="LOCAL-00003" summary="34 - if then statement">
+      <option name="closed" value="true" />
+      <created>1692386260047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692386260047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refatorando nome do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="refatorando nome do projeto" />
+    <MESSAGE value="35 - hello world" />
+    <MESSAGE value="34 - if then statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="34 - if then statement" />
   </component>
 </project>
