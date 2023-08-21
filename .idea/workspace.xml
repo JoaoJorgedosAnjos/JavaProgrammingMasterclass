@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 4 completed">
-      <change afterPath="$PROJECT_DIR$/src/section05/keywordsAndExpressions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section05/methodsInJava/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 5 methods">
+      <change afterPath="$PROJECT_DIR$/src/section05/methodChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,8 @@
       <workItem from="1692380066809" duration="1000" />
       <workItem from="1692380079486" duration="1348000" />
       <workItem from="1692458311017" duration="2090000" />
-      <workItem from="1692474382479" duration="4990000" />
+      <workItem from="1692474382479" duration="5962000" />
+      <workItem from="1692582483930" duration="926000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692479096135</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Section 5 methods">
+      <option name="closed" value="true" />
+      <created>1692488814850</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692488814850</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,7 @@
     <MESSAGE value="35 - hello world" />
     <MESSAGE value="34 - if then statement" />
     <MESSAGE value="Section 4 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 4 completed" />
+    <MESSAGE value="Section 5 methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 5 methods" />
   </component>
 </project>
