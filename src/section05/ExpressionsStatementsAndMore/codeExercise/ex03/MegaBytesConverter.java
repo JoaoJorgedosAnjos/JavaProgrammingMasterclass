@@ -1,4 +1,4 @@
-package section05.codeExercise.ex03;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex03;
 
 public class MegaBytesConverter {
     public static void main(String[] args) {

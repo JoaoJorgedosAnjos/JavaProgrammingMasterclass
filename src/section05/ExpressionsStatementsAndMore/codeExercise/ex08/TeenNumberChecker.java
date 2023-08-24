@@ -1,4 +1,4 @@
-package section05.codeExercise.ex08;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex08;
 
 public class TeenNumberChecker {
     public static void main(String[] args) {

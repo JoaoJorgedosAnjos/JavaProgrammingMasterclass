@@ -1,4 +1,4 @@
-package section05.codeExercise.ex02;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex02;
 
 public class SpeedConverter {
     public static void main(String[] args) {

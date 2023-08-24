@@ -1,4 +1,4 @@
-package section05.codeExercise.ex06;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex06;
 
 public class DecimalComparator {
 

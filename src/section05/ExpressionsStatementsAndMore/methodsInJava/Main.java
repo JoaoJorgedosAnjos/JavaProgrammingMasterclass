@@ -1,4 +1,4 @@
-package section05.methodsInJava;
+package section05.ExpressionsStatementsAndMore.methodsInJava;
 
 public class Main {
     public static void main(String[] args) {

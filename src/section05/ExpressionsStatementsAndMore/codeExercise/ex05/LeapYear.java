@@ -1,4 +1,4 @@
-package section05.codeExercise.ex05;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex05;
 
 public class LeapYear {
     public static void main(String[] args) {

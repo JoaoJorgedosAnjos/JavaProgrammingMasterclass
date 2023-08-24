@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 5 code exercise 07">
-      <change afterPath="$PROJECT_DIR$/src/section05/codeExercise/ex08/TeenNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 5 code exercise 08">
+      <change beforePath="$PROJECT_DIR$/src/section04/helloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section04InteliijBasics/helloWorld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section04/ifThenStatement/Challenge1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section04InteliijBasics/ifThenStatement/Challenge1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section04/ifThenStatement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section04InteliijBasics/ifThenStatement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex01/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex01/PositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex02/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex02/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex03/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex03/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex04/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex04/BarkingDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex05/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex05/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex06/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex06/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex07/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex07/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex08/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex08/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/keywordsAndExpressions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/keywordsAndExpressions/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/methodChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/methodChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section05/methodsInJava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05ExpressionsStatementsMore/methodsInJava/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +76,7 @@
       <workItem from="1692756311291" duration="2526000" />
       <workItem from="1692821162764" duration="1882000" />
       <workItem from="1692842562808" duration="6217000" />
-      <workItem from="1692888516016" duration="2198000" />
+      <workItem from="1692888516016" duration="2516000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -162,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692890917710</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Section 5 code exercise 08">
+      <option name="closed" value="true" />
+      <created>1692896709839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692896709839</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,13 +201,14 @@
     <MESSAGE value="Section 5 code exercise 05" />
     <MESSAGE value="Section 5 code exercise 06" />
     <MESSAGE value="Section 5 code exercise 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 5 code exercise 07" />
+    <MESSAGE value="Section 5 code exercise 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 5 code exercise 08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/section05/codeExercise/ex08/TeenNumberChecker.java</url>
+          <url>file://$PROJECT_DIR$/src/section05ExpressionsStatementsMore/codeExercise/ex08/TeenNumberChecker.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

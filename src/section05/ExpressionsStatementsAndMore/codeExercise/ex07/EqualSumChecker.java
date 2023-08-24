@@ -1,4 +1,4 @@
-package section05.codeExercise.ex07;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex07;
 
 public class EqualSumChecker {
     public static boolean hasEqualSum(int number1, int number2, int number3){

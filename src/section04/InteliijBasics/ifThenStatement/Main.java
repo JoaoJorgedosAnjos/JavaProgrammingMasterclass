@@ -1,4 +1,4 @@
-package section04.ifThenStatement;
+package section04.InteliijBasics.ifThenStatement;
 
 public class Main {
     public static void main(String[] args) {

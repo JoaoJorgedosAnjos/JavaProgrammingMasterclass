@@ -1,4 +1,4 @@
-package section05.codeExercise.ex04;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex04;
 
 public class BarkingDog {
     public static void main(String[] args) {

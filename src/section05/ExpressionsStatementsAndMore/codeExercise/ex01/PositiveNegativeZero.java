@@ -1,4 +1,4 @@
-package section05.codeExercise.ex01;
+package section05.ExpressionsStatementsAndMore.codeExercise.ex01;
 
 public class PositiveNegativeZero {
     public static void main(String[] args) {

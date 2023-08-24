@@ -1,4 +1,4 @@
-package section04.helloWorld;
+package section04.InteliijBasics.helloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package section05.keywordsAndExpressions;
+package section05.ExpressionsStatementsAndMore.keywordsAndExpressions;
 
 public class Main {
     public static void main(String[] args) {
