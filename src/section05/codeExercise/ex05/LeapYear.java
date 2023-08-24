@@ -1,8 +1,8 @@
-package section05.codeExercise.ex06;
+package section05.codeExercise.ex05;
 
 public class LeapYear {
     public static void main(String[] args) {
-        System.out.println(isLeapYear(1924));
+        System.out.println(isLeapYear(1800));
     }
 
     public static boolean isLeapYear(int year) {
