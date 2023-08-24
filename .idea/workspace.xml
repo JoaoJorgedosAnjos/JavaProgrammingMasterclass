@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 5 code exercise 06">
-      <change beforePath="$PROJECT_DIR$/src/section05/codeExercise/ex07/hasEqualSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05/codeExercise/ex07/hasEqualSum.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 5 code exercise 07">
+      <change afterPath="$PROJECT_DIR$/src/section05/codeExercise/ex08/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <workItem from="1692756311291" duration="2526000" />
       <workItem from="1692821162764" duration="1882000" />
       <workItem from="1692842562808" duration="6217000" />
-      <workItem from="1692888516016" duration="419000" />
+      <workItem from="1692888516016" duration="2198000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -153,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692890777376</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Section 5 code exercise 07">
+      <option name="closed" value="true" />
+      <created>1692890917710</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692890917710</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +180,18 @@
     <MESSAGE value="Section 5 code exercise 04" />
     <MESSAGE value="Section 5 code exercise 05" />
     <MESSAGE value="Section 5 code exercise 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 5 code exercise 06" />
+    <MESSAGE value="Section 5 code exercise 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 5 code exercise 07" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/section05/codeExercise/ex08/TeenNumberChecker.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
