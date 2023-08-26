@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Method Overloading ex 02">
-      <change beforePath="$PROJECT_DIR$/src/section05/ExpressionsStatementsAndMore/secondsAndMinutesChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section05/ExpressionsStatementsAndMore/secondsAndMinutesChallenge/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Method Overloading ex 02 refacted">
+      <change afterPath="$PROJECT_DIR$/src/section05/ExpressionsStatementsAndMore/codeExercise/ex09/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1692821162764" duration="1882000" />
       <workItem from="1692842562808" duration="6217000" />
       <workItem from="1692888516016" duration="5121000" />
-      <workItem from="1693016696491" duration="4887000" />
+      <workItem from="1693016696491" duration="5857000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693021543561</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Method Overloading ex 02 refacted">
+      <option name="closed" value="true" />
+      <created>1693021809100</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693021809100</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +241,8 @@
     <MESSAGE value="Method Overloading" />
     <MESSAGE value="Method Overloading ex 01" />
     <MESSAGE value="Method Overloading ex 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method Overloading ex 02" />
+    <MESSAGE value="Method Overloading ex 02 refacted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method Overloading ex 02 refacted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
