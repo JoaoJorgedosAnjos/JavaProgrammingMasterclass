@@ -38,10 +38,11 @@ public class Main {
         int hours = minutes / 60;
 
         int remainingMinutes = minutes % 60;
-        int remainingSeconds = seconds % 60;
+        return hours +"h "+ remainingMinutes + "m "+seconds+"s";
 
-        return hours + "h " + remainingMinutes + "m " + remainingSeconds + "s";
         //or
-        //return hours +"h "+ remainingMinutes + "m "+seconds+"s";
+        //int remainingSeconds = seconds % 60;
+        //return hours + "h " + remainingMinutes + "m " + remainingSeconds + "s";
+
     }
 }
