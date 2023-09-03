@@ -1,4 +1,4 @@
-package section06.ControlFLow.looping.forExample;
+package section06.ControlFLow.looping.forExample.ex01;
 
 public class Main {
     public static void main(String[] args) {
