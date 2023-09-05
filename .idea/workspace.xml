@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 coding exercise 15: sum odd">
-      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/looping/whileExample/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 while and do while">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/looping/whileExample/whileLoopChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,8 @@
       <workItem from="1693676426078" duration="3726000" />
       <workItem from="1693749500160" duration="6048000" />
       <workItem from="1693764591825" duration="6113000" />
-      <workItem from="1693791322245" duration="1847000" />
+      <workItem from="1693791322245" duration="2515000" />
+      <workItem from="1693874313131" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -334,14 +335,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693772763582</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Section 06 while and do while">
+      <option name="closed" value="true" />
+      <created>1693793667080</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1693793667080</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 5 code exercise 01 and 02" />
     <MESSAGE value="Section 5 code exercise 03" />
     <MESSAGE value="Section 5 code exercise 04" />
     <MESSAGE value="Section 5 code exercise 05" />
@@ -366,7 +374,8 @@
     <MESSAGE value="Section 06 looping for statement" />
     <MESSAGE value="Section 06 for Statement challeng exercise" />
     <MESSAGE value="Section 06 coding exercise 15: sum odd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 coding exercise 15: sum odd" />
+    <MESSAGE value="Section 06 while and do while" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 while and do while" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
