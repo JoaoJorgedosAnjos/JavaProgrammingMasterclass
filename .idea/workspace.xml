@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 whileLoopChallenge break">
-      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/looping/whileExample/digitSumChallenge/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 digitSumChallenge">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex16/NumberPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,8 @@
       <workItem from="1693764591825" duration="6113000" />
       <workItem from="1693791322245" duration="2515000" />
       <workItem from="1693874313131" duration="1825000" />
-      <workItem from="1693919073543" duration="2266000" />
+      <workItem from="1693919073543" duration="2283000" />
+      <workItem from="1693933717579" duration="296000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -360,14 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693876010705</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Section 06 digitSumChallenge">
+      <option name="closed" value="true" />
+      <created>1693925920749</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1693925920749</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 5 code exercise 05" />
     <MESSAGE value="Section 5 code exercise 06" />
     <MESSAGE value="Section 5 code exercise 07" />
     <MESSAGE value="Section 5 code exercise 08" />
@@ -392,7 +400,8 @@
     <MESSAGE value="Section 06 while and do while" />
     <MESSAGE value="Section 06 whileLoopChallenge" />
     <MESSAGE value="Section 06 whileLoopChallenge break" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 whileLoopChallenge break" />
+    <MESSAGE value="Section 06 digitSumChallenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 digitSumChallenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
