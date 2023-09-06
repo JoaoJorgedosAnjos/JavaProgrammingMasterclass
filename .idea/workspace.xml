@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 17">
-      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex18/EvenDigitSum.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 18">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex19/SharedDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <workItem from="1693874313131" duration="1825000" />
       <workItem from="1693919073543" duration="2283000" />
       <workItem from="1693933717579" duration="4615000" />
-      <workItem from="1693954182381" duration="1806000" />
+      <workItem from="1693954182381" duration="6443000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -386,14 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693938027988</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Section 06 code exercise 18">
+      <option name="closed" value="true" />
+      <created>1693956278606</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1693956278606</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 5 code exercise 08" />
     <MESSAGE value="refact package" />
     <MESSAGE value="Method Overloading" />
     <MESSAGE value="Method Overloading ex 01" />
@@ -418,7 +425,8 @@
     <MESSAGE value="Section 06 digitSumChallenge" />
     <MESSAGE value="Section 06 code exercise 16" />
     <MESSAGE value="Section 06 code exercise 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercise 17" />
+    <MESSAGE value="Section 06 code exercise 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercise 18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
