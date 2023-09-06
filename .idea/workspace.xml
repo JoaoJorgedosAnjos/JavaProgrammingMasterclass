@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 20">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex21/FactorPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex20/LastDigitChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex20/LastDigitChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,8 @@
       <workItem from="1693919073543" duration="2283000" />
       <workItem from="1693933717579" duration="4615000" />
       <workItem from="1693954182381" duration="9899000" />
-      <workItem from="1694024459966" duration="1321000" />
+      <workItem from="1694024459966" duration="2604000" />
+      <workItem from="1694042357893" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -411,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693965685254</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Section 06 code exercise 20">
+      <option name="closed" value="true" />
+      <created>1694026315987</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1694026315987</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
