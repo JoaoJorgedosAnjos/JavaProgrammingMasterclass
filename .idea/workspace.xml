@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 22">
-      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex23/PerfectNumber.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 23 refatorado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex24/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex24/NumberToWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,8 @@
       <workItem from="1693954182381" duration="9899000" />
       <workItem from="1694024459966" duration="2604000" />
       <workItem from="1694042357893" duration="2559000" />
-      <workItem from="1694045755461" duration="6408000" />
+      <workItem from="1694045755461" duration="7156000" />
+      <workItem from="1694103029084" duration="11970000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -437,15 +438,29 @@
       <option name="project" value="LOCAL" />
       <updated>1694051446291</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Section 06 code exercise 23">
+      <option name="closed" value="true" />
+      <created>1694054361559</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1694054361559</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Section 06 code exercise 23 refatorado">
+      <option name="closed" value="true" />
+      <created>1694054483293</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1694054483293</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Method Overloading ex 02 refacted" />
-    <MESSAGE value="Section 05 Code exercise 09" />
     <MESSAGE value="Section 05 Code exercise 10" />
     <MESSAGE value="Section 05 Code exercise 11" />
     <MESSAGE value="Section 05 Code exercise 12" />
@@ -469,7 +484,9 @@
     <MESSAGE value="Section 06 code exercise 20" />
     <MESSAGE value="Section 06 code exercise 21" />
     <MESSAGE value="Section 06 code exercise 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercise 22" />
+    <MESSAGE value="Section 06 code exercise 23" />
+    <MESSAGE value="Section 06 code exercise 23 refatorado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercise 23 refatorado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
