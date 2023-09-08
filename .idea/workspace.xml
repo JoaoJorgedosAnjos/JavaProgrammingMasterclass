@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 23 refatorado">
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercise 24">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/readerUserInput/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex24/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex24/NumberToWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,22 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="section05" />
@@ -92,7 +93,7 @@
       <workItem from="1694024459966" duration="2604000" />
       <workItem from="1694042357893" duration="2559000" />
       <workItem from="1694045755461" duration="7156000" />
-      <workItem from="1694103029084" duration="11970000" />
+      <workItem from="1694103029084" duration="14228000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -454,14 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694054483293</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Section 06 code exercise 24">
+      <option name="closed" value="true" />
+      <created>1694118383005</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1694118383005</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 05 Code exercise 10" />
     <MESSAGE value="Section 05 Code exercise 11" />
     <MESSAGE value="Section 05 Code exercise 12" />
     <MESSAGE value="Section 06 switch case" />
@@ -486,7 +494,8 @@
     <MESSAGE value="Section 06 code exercise 22" />
     <MESSAGE value="Section 06 code exercise 23" />
     <MESSAGE value="Section 06 code exercise 23 refatorado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercise 23 refatorado" />
+    <MESSAGE value="Section 06 code exercise 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercise 24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
