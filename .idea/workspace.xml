@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 reader user input System.console">
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 What's an exception?">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex25/FlourPacker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section06/ControlFLow/readerUserInput/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section06/ControlFLow/readerUserInput/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1694042357893" duration="2559000" />
       <workItem from="1694045755461" duration="7156000" />
       <workItem from="1694103029084" duration="14275000" />
-      <workItem from="1694302227059" duration="1175000" />
+      <workItem from="1694302227059" duration="6893000" />
     </task>
     <task id="LOCAL-00001" summary="refatorando nome do projeto">
       <option name="closed" value="true" />
@@ -475,14 +475,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694136464111</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Section 06 What's an exception?">
+      <option name="closed" value="true" />
+      <created>1694303698742</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1694303698742</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 05 Code exercise 12" />
     <MESSAGE value="Section 06 switch case" />
     <MESSAGE value="Section 06 switch case example enhanced" />
     <MESSAGE value="Section 06 switch case example enhanced withc methods" />
@@ -507,7 +514,8 @@
     <MESSAGE value="Section 06 code exercise 23 refatorado" />
     <MESSAGE value="Section 06 code exercise 24" />
     <MESSAGE value="Section 06 reader user input System.console" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 reader user input System.console" />
+    <MESSAGE value="Section 06 What's an exception?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 What's an exception?" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
