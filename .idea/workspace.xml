@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 code exercicse 27">
-      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/minAndMaxChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/readingUserInputChallenge/Main.java" afterDir="false" />
+    <list default="true" id="d4dc65ea-93e6-422f-9447-e157b412ba33" name="Changes" comment="Section 06 min and max challenge">
+      <change afterPath="$PROJECT_DIR$/src/section06/ControlFLow/codeExercise/ex28/InputCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section06/ControlFLow/readerUserInput/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section06/ControlFLow/readerUserInput/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,23 +100,7 @@
       <workItem from="1694302227059" duration="6893000" />
       <workItem from="1694359899529" duration="933000" />
       <workItem from="1694384632159" duration="1035000" />
-      <workItem from="1694464562423" duration="1455000" />
-    </task>
-    <task id="LOCAL-00002" summary="35 - hello world">
-      <option name="closed" value="true" />
-      <created>1692386241661</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1692386241661</updated>
-    </task>
-    <task id="LOCAL-00003" summary="34 - if then statement">
-      <option name="closed" value="true" />
-      <created>1692386260047</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1692386260047</updated>
+      <workItem from="1694464562423" duration="3084000" />
     </task>
     <task id="LOCAL-00004" summary="Section 4 completed">
       <option name="closed" value="true" />
@@ -496,15 +478,29 @@
       <option name="project" value="LOCAL" />
       <updated>1694360473568</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Section 06 reader input and reader input challenge">
+      <option name="closed" value="true" />
+      <created>1694466758999</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1694466758999</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Section 06 min and max challenge">
+      <option name="closed" value="true" />
+      <created>1694466774038</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1694466774038</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 06 switch case example enhanced withc methods" />
-    <MESSAGE value="Section 06 switch case example enhanced witch methods" />
     <MESSAGE value="Section 06 switch case ex 1 and 2" />
     <MESSAGE value="Section 06 coding exercise 13 and 14" />
     <MESSAGE value="Section 06 looping for statement" />
@@ -528,7 +524,9 @@
     <MESSAGE value="Section 06 What's an exception?" />
     <MESSAGE value="Section 06 code exercicse 26" />
     <MESSAGE value="Section 06 code exercicse 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 06 code exercicse 27" />
+    <MESSAGE value="Section 06 reader input and reader input challenge" />
+    <MESSAGE value="Section 06 min and max challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 06 min and max challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
